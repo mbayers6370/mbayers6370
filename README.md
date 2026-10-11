@@ -1,29 +1,22 @@
-**Frontend Developer · UI/UX Design · Software Engineering**
+<p align="center"><img src="assets/hero.svg" width="100%" alt="Thoughtful design. Intentional development. Frontend developer, UI/UX, software engineering." /></p>
 
-I'm a developer interested in the intersection of technology, visual design, and human behavior. I enjoy creating digital experiences that balance technical functionality with thoughtful, intuitive interfaces.
+<p align="center">
+  <a href="https://matthewbayers.com">PORTFOLIO ↗</a> &nbsp;·&nbsp;
+  <a href="https://sonuslearning.com/">SONUS ↗</a> &nbsp;·&nbsp;
+  <a href="https://github.com/mbayers6370?tab=repositories">REPOSITORIES ↗</a>
+</p>
 
-My work spans frontend development, full-stack applications, and Android development, with an increasing focus on human-centered design.
+<p align="center"><img src="assets/work.svg" width="100%" alt="Selected work: Sonus, Scheduler, and Travlr." /></p>
 
----
+**01 — [Sonus](https://github.com/mbayers6370/Sonus)** · [Website](https://sonuslearning.com/)  
+A multilingual language-learning platform focused on practical fluency and structured progression.
 
-### Selected work
+**02 — [Scheduler](https://github.com/mbayers6370/scheduler)**  
+An offline-first Android scheduling application with event management, hierarchical collections, and secure local persistence.
 
-**[Sonus](https://github.com/mbayers6370/Sonus)**  
-A multilingual language-learning platform focused on structured progression and practical fluency.  
-React · TypeScript · PostgreSQL
+**03 — [Travlr](https://github.com/mbayers6370/CS_465)**  
+A full-stack travel management application with a customer-facing site and administrative interface. *(Repository currently named CS_465.)*
 
-**[Scheduler](https://github.com/mbayers6370/scheduler)**  
-An offline-first Android scheduling application with event management, hierarchical collections, and database persistence.  
-Kotlin · Jetpack Compose · Room
+<p align="center"><img src="assets/footer.svg" width="100%" alt="Beyond the code: design, accessibility, and human-centered development." /></p>
 
-**[Travlr](https://github.com/mbayers6370/CS_465)**  
-A full-stack travel application with a customer-facing website and administrative management interface.  
-Angular · Express · MongoDB
-
----
-
-### Beyond the code
-
-I'm especially interested in visual hierarchy, interaction design, accessibility, and the decisions that make software feel intuitive rather than complicated.
-
-[Portfolio](https://matthewbayers.com) · [LinkedIn](https://www.linkedin.com/in/matthew-bayers) · [Sonus](https://sonuslearning.com/)
+<p align="center"><a href="https://matthewbayers.com">matthewbayers.com ↗</a></p>
