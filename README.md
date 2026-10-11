@@ -1,22 +1,38 @@
-<p align="center"><img src="assets/hero.svg" width="100%" alt="Thoughtful design. Intentional development. Frontend developer, UI/UX, software engineering." /></p>
+<!-- GitHub profile README — branded to matthewbayers.com -->
+<p align="left"><a href="https://matthewbayers.com"><img src="assets/wordmark.svg" width="72" alt="MB. — Portfolio" /></a></p>
 
-<p align="center">
-  <a href="https://matthewbayers.com">PORTFOLIO ↗</a> &nbsp;·&nbsp;
-  <a href="https://sonuslearning.com/">SONUS ↗</a> &nbsp;·&nbsp;
-  <a href="https://github.com/mbayers6370?tab=repositories">REPOSITORIES ↗</a>
-</p>
+<a href="https://matthewbayers.com"><img src="assets/header.svg" width="100%" alt="Matthew Bayers — Frontend developer, UI/UX design, software engineering. Thoughtful design. Intentional development." /></a>
 
-<p align="center"><img src="assets/work.svg" width="100%" alt="Selected work: Sonus, Scheduler, and Travlr." /></p>
+<br />
 
-**01 — [Sonus](https://github.com/mbayers6370/Sonus)** · [Website](https://sonuslearning.com/)  
-A multilingual language-learning platform focused on practical fluency and structured progression.
+<sub>SELECTED WORK &nbsp; / &nbsp; 2026</sub>
 
-**02 — [Scheduler](https://github.com/mbayers6370/scheduler)**  
-An offline-first Android scheduling application with event management, hierarchical collections, and secure local persistence.
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://github.com/mbayers6370/Sonus"><img src="assets/sonus.svg" width="100%" alt="01 — Sonus" /></a>
+      <p><strong><a href="https://github.com/mbayers6370/Sonus">Sonus ↗</a></strong><br />Language learning designed for lasting fluency.</p>
+      <sub>REACT &nbsp; / &nbsp; TYPESCRIPT &nbsp; / &nbsp; POSTGRESQL</sub>
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://github.com/mbayers6370/scheduler"><img src="assets/scheduler.svg" width="100%" alt="02 — Scheduler" /></a>
+      <p><strong><a href="https://github.com/mbayers6370/scheduler">Scheduler ↗</a></strong><br />Offline-first Android scheduling, built with care.</p>
+      <sub>KOTLIN &nbsp; / &nbsp; JETPACK COMPOSE &nbsp; / &nbsp; ROOM</sub>
+    </td>
+  </tr>
+</table>
 
-**03 — [Travlr](https://github.com/mbayers6370/CS_465)**  
-A full-stack travel management application with a customer-facing site and administrative interface. *(Repository currently named CS_465.)*
+<a href="https://github.com/mbayers6370/CS_465"><img src="assets/travlr.svg" width="100%" alt="03 — Travlr, full-stack travel application" /></a>
 
-<p align="center"><img src="assets/footer.svg" width="100%" alt="Beyond the code: design, accessibility, and human-centered development." /></p>
+**[Travlr ↗](https://github.com/mbayers6370/CS_465)** — A full-stack travel application with a customer-facing website and administrative tools.  
+<sub>ANGULAR &nbsp; / &nbsp; EXPRESS &nbsp; / &nbsp; MONGODB</sub>
 
-<p align="center"><a href="https://matthewbayers.com">matthewbayers.com ↗</a></p>
+<br />
+
+---
+
+<sub>ABOUT / APPROACH</sub>
+
+I work across product design and software development, with a focus on visual hierarchy, usability, accessibility, and the details that make digital experiences feel cohesive.
+
+**[Portfolio ↗](https://matthewbayers.com)** &nbsp;·&nbsp; **[Sonus ↗](https://sonuslearning.com/)** &nbsp;·&nbsp; **[All repositories ↗](https://github.com/mbayers6370?tab=repositories)**
