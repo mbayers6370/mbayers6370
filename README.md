@@ -2,8 +2,6 @@
 
 <a href="https://matthewbayers.com"><img src="./assets/hero.svg" alt="MB. Thoughtful design. Intentional development. Frontend developer, UI and UX, software engineering." width="100%"></a>
 
-<a href="https://matthewbayers.com">PORTFOLIO ↗</a> &nbsp; · &nbsp; <a href="https://sonuslearning.com/">SONUS ↗</a> &nbsp; · &nbsp; <a href="https://github.com/mbayers6370?tab=repositories">REPOSITORIES ↗</a>
-
 <br>
 
 <a href="https://github.com/mbayers6370/Sonus"><img src="./assets/sonus.svg" alt="Project 01: Sonus. Language learning designed for lasting fluency. React, TypeScript, PostgreSQL. View project." width="100%"></a>
