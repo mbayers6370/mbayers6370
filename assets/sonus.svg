@@ -1,1 +1,10 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="520" height="240" viewBox="0 0 520 240" role="img"><rect width="520" height="240" fill="#485200"/><text x="26" y="35" fill="#f4f4ec" font-family="monospace" font-size="12" letter-spacing="1">NO. 01 / PRODUCT DEVELOPMENT</text><text x="492" y="169" text-anchor="end" fill="#7c8550" font-family="Arial,Helvetica,sans-serif" font-size="138" font-weight="300">01</text><text x="25" y="176" fill="#f4f4ec" font-family="Arial,Helvetica,sans-serif" font-size="65" font-weight="800" letter-spacing="-3">Sonus.</text><path d="M26 208H494" stroke="#84905c"/><text x="27" y="228" fill="#f4f4ec" font-family="monospace" font-size="11">VIEW PROJECT  ↗</text></svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="1100" height="285" viewBox="0 0 1100 285" role="img">
+<rect width="1100" height="285" fill="#485200"/>
+<text x="43" y="47" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="13" font-weight="600" fill="#c7cbb5" letter-spacing="1.1">NO. 01  /  PRODUCT DEVELOPMENT</text>
+<text x="895" y="205" font-family="Arial, Helvetica, sans-serif" font-size="164" font-weight="300" fill="#858e55">01</text>
+<text x="39" y="151" font-family="Arial, Helvetica, sans-serif" font-size="87" font-weight="750" fill="#f0f0e8">Sonus.</text>
+<text x="44" y="190" font-family="Arial, Helvetica, sans-serif" font-size="23" font-weight="400" fill="#f0f0e8">Language learning designed for lasting fluency.</text>
+<line x1="43" y1="219" x2="1057" y2="219" stroke="#87915c" stroke-width="1"/>
+<text x="43" y="249" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="13" font-weight="600" fill="#c7cbb5" letter-spacing="0.7">REACT / TYPESCRIPT / POSTGRESQL</text>
+<text x="910" y="249" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="13" font-weight="700" fill="#f0f0e8" letter-spacing="0.7">VIEW PROJECT ↗</text>
+</svg>
